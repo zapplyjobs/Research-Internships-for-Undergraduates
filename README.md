@@ -59,7 +59,7 @@ FINLAND
   
 UK
 
-  * [DSSGx UK Summer Fellowship](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/), University of Warwick
+  * [DSSGx UK Summer Fellowship](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/), University of Warwick (Discontinued!)
   * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 
 INDIA
