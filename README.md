@@ -91,7 +91,7 @@ JAPAN
 
 AUSTRIA
 
-  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria (Paused for 2026 cycle maybe open in 2027 cycle)
   
 HONG KONG 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
