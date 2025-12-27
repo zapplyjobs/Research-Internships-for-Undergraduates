@@ -16,7 +16,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
 [![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EXR6rWnd)
 [![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
 
 ## Join Our Community
@@ -24,7 +24,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 ![rifu-community](images/rifu-community.png)
 
 <p align="center">
-  <a href="https://discord.gg/NXhmuk2T"><img src="images/rifu-discord.png" width="293"></a>
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/rifu-discord.png" width="293"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/r/Zapply/"><img src="images/rifu-reddit.png" width="250"></a>
 </p>
