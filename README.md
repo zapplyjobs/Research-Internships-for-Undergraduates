@@ -114,42 +114,42 @@ The following are some worldwide research internship positions:
 
 ![rifu-section-asia](images/rifu-section-asia.png)
 
-#### Japan
+#### <img src="images/flags/jp.png" width="15"> Japan
   * [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
   * [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology 
   * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
   * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
   * [Internet Initiative Japan Internship] (https://www.iijlab.net/en/career/internship.html), for on-site tech internship in Japan.
 
-#### South Korea
+#### <img src="images/flags/kr.png" width="15"> South Korea
   * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
   * [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
   * [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
   * [Research internship @ Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
   * [Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
 
-#### Taiwan
+#### <img src="images/flags/tw.png" width="15"> Taiwan
   * [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
   * [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
   * [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
   * [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)
   * [TEEP Internship, Taiwan](https://www.roc-taiwan.org/in_en/post/2749.html)
 
-#### Hong Kong 
+#### <img src="images/flags/hk.png" width="15"> Hong Kong 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
 
-#### India
+#### <img src="images/flags/in.png" width="15"> India
   * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
   * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
   * [INSA-IASc-NASI SRFP](https://www.ias.ac.in) for undergraduate and postgraduate students in Chemistry, Earth and Planetary sciences, Engineering including computer sciences, Life sciences, mathematics and physics. The fellowship period is 56 days and is quite prestigious for anyone who wishes to go into the field of research.
 
-#### Indonesia
+#### <img src="images/flags/id.png" width="15"> Indonesia
   * [Institut Teknologi Sepuluh Nopember Lab-Based Internship](https://www.its.ac.id/international/experiencing-its/prospective-student/admission/internship/)
 
-#### Thailand
+#### <img src="images/flags/th.png" width="15"> Thailand
   * [Faculty of Engineering Kasetsart University internship/training/research programs](https://en.eng.ku.ac.th/?page_id=67)
   * [Faculty of Engineering King Mongkut University of North Bangkok Exchange/internship programs](https://www.eng.kmutnb.ac.th/ciep/?page_id=2550)
 
@@ -157,20 +157,20 @@ The following are some worldwide research internship positions:
 
 ![rifu-section-middle-east](images/rifu-section-middle-east.png)
 
-#### Israel
+#### <img src="images/flags/il.png" width="15"> Israel
   * [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
-#### Saudi Arabia
+#### <img src="images/flags/sa.png" width="15"> Saudi Arabia
   * [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
 
-#### United Arab Emirates
+#### <img src="images/flags/ae.png" width="15"> United Arab Emirates
   * [Research internship program for AI](https://mbzuai.ac.ae/ugrip/)
 
 ## Australia & Oceania
 
 ![rifu-section-middle-australia](images/rifu-section-australia.png)
 
-#### Australia
+#### <img src="images/flags/au.png" width="15"> Australia
   * [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
   * [UNSW Research Internship (Australia)](https://www.unsw.edu.au/science/student-life-resources/student-opportunities/research-integrated-learning)
 
