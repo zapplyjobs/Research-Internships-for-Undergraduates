@@ -76,6 +76,7 @@ The following are some worldwide research internship positions:
 #### <img src="images/flags/ca.png" alt="Canadian flag" width="15"> Canada
   * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (NO LONGER AVAILABLE)
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+  * [Hanzilla Jobs - Canada science internships and new-grad roles](https://jobs.hanzilla.co/sciences/) - daily-updated Canadian student/recent-grad job board with science, data, engineering, business, and finance internships, co-ops, junior, and entry-level roles.
 
 ## Europe
 
