@@ -56,7 +56,7 @@ The following are some worldwide research internship positions:
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
-  * [QRLSSP Summer Program](https://mcmsc.asu.edu/institutes/qrlssp), Arizona State University: Only for US Citizens / Permanent Residents
+  * [QRLSSP Summer Program](https://mcmsc.asu.edu/), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
   * [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
@@ -127,7 +127,7 @@ The following are some worldwide research internship positions:
 ![Research internships and academic programs across Asia.](images/rifu-section-asia.png)
 
 #### <img src="images/flags/jp.png" alt="Japanese flag" width="15"> Japan
-  * [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
+  * [University of Tokyo](https://amgenscholars.com/), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
   * [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology 
   * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
   * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
@@ -193,7 +193,7 @@ The following are some worldwide research internship positions:
 #### 🌍 Multiple Countries
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
   * [Amgen Scholars Program](https://amgenscholars.com/)
-  * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
+  * [UX Research Internship, Red Hat](https://careers.redhat.com/)
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
 #### 🗺️ Global Programs for Indian Students
@@ -202,9 +202,8 @@ The following are some worldwide research internship positions:
 * [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 * [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 * [Viterbi India Program](https://iusstf.org/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
-* [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
+* [Khorana Program for Scholars](https://iusstf.org/), sponsored by IUSSTF
 * [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
-* [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
 * [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
 * [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
 * [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
