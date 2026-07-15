@@ -8,7 +8,7 @@
 > Know a program that's missing or has a broken link? Submit an issue or pull request — we review and merge contributions regularly.
 
 <p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=github">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=gh-research-internships">
   <img src="images/zapply-logo.png" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
@@ -27,7 +27,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/?ref=gh-research-internships"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
+  <a href="https://zapply.jobs/?ref=gh-research-internships"><img src="images/zapply-button-4.png" alt="Visit Our Website" width="700"></a>
 </p>
 
 ## Explore Around
@@ -37,11 +37,9 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-button-1.png" alt="Visit Our Discord Server" width="290"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapply.jobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapply.jobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
+  <a href="https://www.linkedin.com/company/zapply-jobs"><img src="images/linkedin-button-1.png" alt="Visit Our LinkedIn Page" width="250"></a>
 </p>
 
 The following are some worldwide research internship positions:
@@ -211,25 +209,25 @@ The following are some worldwide research internship positions:
 Check out our other repos for jobs and free resources:
 
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2027"><img src="images/repo-ngj.png" alt="New Grad Jobs 2027" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-hcj.png" alt="Healthcare Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Internships-2026"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2027"><img src="images/repo-hcj.png" alt="Healthcare Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
-  &nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Internships-2027"><img src="images/repo-int.png" alt="Internships 2027" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
 
 <p align="center">
