@@ -433,9 +433,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Polaris** | Finance Internship - Summer 2027 | Medina, MN | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Finance-Internship---Summer-2027_R30415) |
-| **Polaris** | HR Internship - Summer 2027 | Medina, MN | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526) |
-| **Polaris** | Marketing Internship - Summer 2027 | Plymouth, MN | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Marketing-Internship---Summer-2027_R30416) |
+| **Polaris** | Finance Internship - Summer 2027 | Medina, MN | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Finance-Internship---Summer-2027_R30415) |
+| **Polaris** | HR Internship - Summer 2027 | Medina, MN | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526) |
+| **Polaris** | Marketing Internship - Summer 2027 | Plymouth, MN | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Marketing-Internship---Summer-2027_R30416) |
 | **Nelnet** | Marketing Content Intern | Centennial, CO | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Centennial-CO/Marketing-Content-Intern_R22872) |
 | **Formlabs** | Social Media Content Intern (Fall 2026) | Somerville, MA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8114569/apply/?gh_jid=8114569) |
 | **Varda Space** | Supply Chain Internship - Spring 2027 | El Segundo, California... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7824827003) |
@@ -531,7 +531,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Polaris** | Sales Internship - Summer 2027 | Plymouth, MN | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Sales-Internship---Summer-2027_R30417) |
+| **Polaris** | Sales Internship - Summer 2027 | Plymouth, MN | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Sales-Internship---Summer-2027_R30417) |
 | **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
 | **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
 | **ByteDance** | Developer Advocacy Project Intern (PI... | San Jose, California | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665037087551129909) |
