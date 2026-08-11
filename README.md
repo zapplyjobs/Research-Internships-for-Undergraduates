@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
-| **ByteDance** | Network Software Development Engineer... | San Jose, California | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670778018960542005) |
-| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
+| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
+| **ByteDance** | Network Software Development Engineer... | San Jose, California | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670778018960542005) |
+| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
 | **LPL Financial** | Summer Intern 2027- Platform Engineer | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Platform-Engineer_R-052920-1) |
 | **LPL Financial** | Summer Intern 2027- Software Engineer | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) |
 | **LPL Financial** | Summer Intern 2027- Cybersecurity | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Cybersecurity_R-052919) |
@@ -177,10 +177,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538942403488188680) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
-| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
-| **GDIT** | Summer 2027 AI/Machine Learning Inter... | USA VA Falls Church | 32m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538942403488188680) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
+| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
+| **GDIT** | Summer 2027 AI/Machine Learning Inter... | USA VA Falls Church | 38m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
 | **LPL Financial** | Summer Intern 2027- Business Analyst ... | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Business-Analyst-and-Project-Management_R-052922) |
 | **Motorola Solutions** | Supply Chain Applied AI Engineering I... | Chicago, IL, More... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461) |
 | **Boeing** | Boeing Summer 2027 Internship Program... | Everett, WA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
@@ -242,7 +242,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Polaris** | Engineering Intern - Summer 2027 | Wyoming, MN | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718) |
+| **Polaris** | Engineering Intern - Summer 2027 | Wyoming, MN | 34m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718) |
 | **Reframe Systems** | Mechanical Engineer Internship (Summe... | Andover, MA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/reframesystems/c4db63dc-4023-44f7-b971-d94cc730ab9f) |
 | **Field AI** | Mechanical Engineer, Robotics Hardwar... | Irvine, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) |
 | **Vertiv** | Electrical Engineering Intern (Summer... | Westerville, OH, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278711) |
@@ -353,12 +353,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Research Scientist I... | Seattle, Washington | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670855041951795509) |
-| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
-| **ByteDance** | Research Scientist Intern (Quantum Ch... | San Jose, California | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668590365398993205) |
-| **Micron Technology** | Intern - DRAM Design Engineer | Boise, ID - Main Site | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
-| **Micron Technology** | Intern - DRAM IP Circuits Design Engi... | Boise, ID - Main Site | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
-| **Micron Technology** | Intern - DRAM Design Engineer | Boise, ID - Main Site | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
+| **ByteDance** | Machine Learning Research Scientist I... | Seattle, Washington | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670855041951795509) |
+| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
+| **ByteDance** | Research Scientist Intern (Quantum Ch... | San Jose, California | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668590365398993205) |
+| **Micron Technology** | Intern - DRAM Design Engineer | Boise, ID - Main Site | 34m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) |
+| **Micron Technology** | Intern - DRAM IP Circuits Design Engi... | Boise, ID - Main Site | 34m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
+| **Micron Technology** | Intern - DRAM Design Engineer | Boise, ID - Main Site | 34m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
 | **Uline** | Instructional Designer Internship - S... | Pleasant Prairie, WI | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Instructional-Designer-Internship---Summer-2027_R266133) |
 | **Varda Space** | Biologics Formulation Research Intern... | El Segundo, California... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
 | **Nelnet** | Intern – Graphic Designer | Lincoln, NE | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Graphic-Designer_R22905) |
@@ -437,7 +437,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Supply Chain Program Management Intern | Redmond, Washington, U... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556958168) |
+| **Microsoft** | Supply Chain Program Management Intern | Redmond, Washington, U... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556958168) |
 | **Comcast** | Marketing Intern | Philadelphia, PA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Marketing-Intern_R440213) |
 | **Vertiv** | Procurement Intern (Summer 2027) | Westerville, OH, Unite... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278523) |
 | **Formlabs** | Social Media Content Intern (Fall 2026) | Somerville, MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8114569/apply/?gh_jid=8114569) |
@@ -529,18 +529,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
-| **ByteDance** | Developer Advocacy Project Intern (PI... | San Jose, California | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665037087551129909) |
-| **Google** | Student Researcher, PhD, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
-| **Agilent Technologies** | Video Production Intern | Wilmington, DE | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Video-Production-Intern_4038651) |
-| **Magna** | Mechatronics Engineering Co-op | Newmarket, Ontario, CA | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) |
-| **Booz Allen Hamilton** | AI RAN Telecommunications Engineer In... | McLean, VA | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) |
-| **Uline** | International Trade Compliance Intern... | Pleasant Prairie, WI | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R265917) |
-| **Invesco** | Early Career Intern - Investments (IF... | Atlanta, Georgia | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Investments--IFI-High-Yield-_R-15096-1) |
-| **Micron Technology** | Intern - Process Development Engineer... | Boise, ID - Main Site | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
-| **Ardian** | Secondaries & Primaries Intern – Sept... | San Francisco | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/San-Francisco/Secondaries---Primaries-Intern---September-2026-I-SF_JR1001863) |
+| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
+| **ByteDance** | Developer Advocacy Project Intern (PI... | San Jose, California | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665037087551129909) |
+| **Google** | Student Researcher, PhD, Fall 2026 | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
+| **Agilent Technologies** | Video Production Intern | Wilmington, DE | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Video-Production-Intern_4038651) |
+| **Magna** | Mechatronics Engineering Co-op | Newmarket, Ontario, CA | 24m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Mechatronics-Engineering-Co-op_R00251133) |
+| **Booz Allen Hamilton** | AI RAN Telecommunications Engineer In... | McLean, VA | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) |
+| **Uline** | International Trade Compliance Intern... | Pleasant Prairie, WI | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/International-Trade-Compliance-Internship---Summer-2027_R265917) |
+| **Invesco** | Early Career Intern - Investments (IF... | Atlanta, Georgia | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Investments--IFI-High-Yield-_R-15096-1) |
+| **Micron Technology** | Intern - Process Development Engineer... | Boise, ID - Main Site | 34m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
+| **Ardian** | Secondaries & Primaries Intern – Sept... | San Francisco | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/San-Francisco/Secondaries---Primaries-Intern---September-2026-I-SF_JR1001863) |
 | **LPL Financial** | Summer Intern 2027- Product | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) |
 | **LPL Financial** | Summer Intern 2027 - Data | Fort MillCharlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) |
 | **LPL Financial** | New Grad Summer 2027 - Financial Serv... | Fort Mill/Charlotte | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-Summer-2027---Financial-Service-Professional--Fort-Mill-_R-052598) |
