@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-724-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-292-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-725-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-293-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-167-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Internships-2027?style=flat&logo=calendar)
 
@@ -81,9 +81,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hermeus** | Propulsion Test Engineering Intern - ... | Jacksonville, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
 | **Hermeus** | Software Engineering Intern (Command ... | Atlanta, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
 | **Hermeus** | Flight Software Engineering Intern - ... | Atlanta, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) |
-| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
-| **ByteDance** | Software Engineer Intern (AML-Engine-... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672386983965100341) |
-| **ByteDance** | Software Engineer Intern (AML-Engine-... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671162985123907845) |
+| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
+| **ByteDance** | Software Engineer Intern (AML-Engine-... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672386983965100341) |
+| **ByteDance** | Software Engineer Intern (AML-Engine-... | San Jose, California | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671162985123907845) |
 | **Amazon.com Services LLC** | Automation Engineer Intern, (Nationwi... | Mt. Juliet, TN | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027) |
 | **Western Digital** | Summer 2027 Intern - Software Enginee... | San Jose, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | **Bosch Group** | Powertrain Controls Software Engineer... | Farmington Hills, MI | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000142898574) |
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Business Intelligence Intern | Lancaster, PA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
 | **Institute for Foundation Models** | AI Research Internship - LLM | Sunnyvale, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f) |
 | **Institute for Foundation Models** | AI Research Internship - WM | Sunnyvale, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678) |
-| **ByteDance** | Agent Evaluation & Evolution Machine ... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672391300141877557) |
-| **ByteDance** | Visual Generation & Multimodal Evalua... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672392998231050549) |
-| **ByteDance** | Agent Evaluation & Evolution Machine ... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671096345243535669) |
+| **ByteDance** | Agent Evaluation & Evolution Machine ... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672391300141877557) |
+| **ByteDance** | Visual Generation & Multimodal Evalua... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7672392998231050549) |
+| **ByteDance** | Agent Evaluation & Evolution Machine ... | San Jose, California | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671096345243535669) |
 | **Vertiv** | Sales Data Analytics Intern (Summer 2... | Westerville, OH, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | **Vertiv** | Sales Data Analytics Intern (Summer 2... | Westerville, OH, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
 | **Postman** | AI Engineer, Internship - Summer 2026... | Berkeley, California, ... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
@@ -219,17 +219,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RE/SPEC Inc.** | Student Engineering Intern - Civil | Fort Myers, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000113805397) |
 | **RE/SPEC Inc.** | Student Engineering Intern - Cavern G... | Rapid City, SD | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000107082695) |
 | **Intuitive** | Computer Vision Engineering Intern - ... | Sunnyvale, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000133458290) |
-| **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
-| **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) |
-| **Bosch Group** | Electronics Engineering Intern | Fort Lauderdale, FL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) |
-| **Xsolla** | AI-First Engineering Intern | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) |
-| **Xsolla** | AI-First Engineering Intern | Raleigh, United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) |
+| **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
+| **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123481879) |
+| **Bosch Group** | Electronics Engineering Intern | Fort Lauderdale, FL | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) |
+| **Xsolla** | AI-First Engineering Intern | Los Angeles, United St... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) |
+| **Xsolla** | AI-First Engineering Intern | Raleigh, United States | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) |
 | **Shield AI** | Electrical Engineering Spring Co-op (... | Dallas, Texas | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
 | **Layup Parts** | Electrical Engineering Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) |
+| **Hermeus** | Test and Operations Engineering Inter... | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | **Hermeus** | Manufacturing Engineering Intern - Fa... | Atlanta, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) |
 | **Hermeus** | Mechanical Engineering Intern  - Fall... | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
-| **Hermeus** | Test and Operations Engineering Inter... | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
-| **Field AI** | Electrical Engineer, Robotics Hardwar... | Irvine, CA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) |
+| **Field AI** | Electrical Engineer, Robotics Hardwar... | Irvine, CA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) |
 | **True Anomaly** | GSE Engineering Intern | Denver, CO | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) |
 | **Vertiv** | Technical Sales Engineering Intern - ... | Columbus, OH, United S... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722) |
 | **Vertiv** | Technical Sales Engineering Intern - ... | Columbus, OH, United S... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278720) |
@@ -307,9 +307,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Field AI** | Robotics Research Internship-Locomoti... | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) |
 | **Field AI** | Robotics Research Internship, Humanoi... | Boston, MA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) |
 | **CertiK** | Security Research Internship | New York, NY  / Seattl... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) |
-| **ByteDance** | Research Intern (AI Compute Efficienc... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802153418475829) |
-| **ByteDance** | Machine Learning Research Scientist I... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670855041951795509) |
-| **ByteDance** | Research Intern (SDN Traffic Intellig... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668118098724079877) |
+| **ByteDance** | Research Intern (AI Compute Efficienc... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802153418475829) |
+| **ByteDance** | Machine Learning Research Scientist I... | Seattle, Washington | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670855041951795509) |
+| **ByteDance** | Research Intern (SDN Traffic Intellig... | San Jose, California | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668118098724079877) |
 | **Defense Unicorns** | SkillBridge Intern - Technical Produc... | Remote | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/defenseunicorns/jobs/5210327007) |
 | **Varda Space** | Biologics Formulation Research Intern... | El Segundo, California... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
 | **PlusAI** | Deep Learning Research Intern — Multi... | Santa Clara, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62) |
@@ -363,9 +363,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Toyota Research Institute** | Energy & Materials Intern- XRD Advanc... | Los Altos, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) |
 | **Mercedes-Benz R&D North America** | ​​AI Program Manager Intern​ | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/a5501534-a21b-4e47-a249-37dac374210f) |
 | **Firework** | AI Content Intern | San Mateo, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/fireworkhq/30defeef-fd18-4a43-aa77-3462cca3a859) |
-| **Crest Industries** | Accounting Internship | Pineville, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606) |
 | **Crest Industries** | Finance Internship | Pineville, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/a4e1fa07-80f5-4a7d-989e-b755a7ac7d7e) |
 | **Crest Industries** | Mid-State Accounting Intern | Alexandria, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/b155c903-f65d-489b-8ea0-d959af22c481) |
+| **Crest Industries** | Accounting Internship | Pineville, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606) |
 | **Vertiv** | Operations Intern (Summer 2027) | Westerville, OH, Unite... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223) |
 | **Vertiv** | Procurement Intern (Summer 2027) | Westerville, OH, Unite... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279238) |
 | **HeyGen** | Growth Marketing Intern | Los Angeles | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/heygen/jobs/5209765007) |
@@ -415,8 +415,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Western Digital** | Fall 2026 Intern - IT Wafer Systems A... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000135313334) |
-| **Veolia Environnement SA** | Production Intern | Norfolk, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127747569) |
-| **Smiths Group** | Customer Reliability Engineer Intern ... | Port Arthur, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634) |
+| **Veolia Environnement SA** | Production Intern | Norfolk, VA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127747569) |
+| **Smiths Group** | Customer Reliability Engineer Intern ... | Port Arthur, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634) |
 | **Sandisk** | Field Application Engineer (New Colle... | Milpitas, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000136097669) |
 | **Red Bull** | 2026 Internship, Summer - Creative Video | Harrison, NJ | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000117670568) |
 | **Red Bull** | 2026 Internship, Summer - Youth Progr... | Harrison, NJ | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000116966104) |
@@ -431,34 +431,35 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Computing Graduate Student Intern - F... | Livermore, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013801396) |
 | **LLNL** | Computing Undergraduate Student Inter... | Livermore, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013801386) |
 | **Codeage** | Writer/Editor Intern | Beverly Hills, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081698) |
-| **Bosch Group** | MFG Test Technician Intern | Fort Lauderdale, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000082485386) |
-| **Bosch Group** | Chassis Control Intern - Kettering Un... | Plymouth, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000127510818) |
-| **Bosch Group** | Purchasing Intern | Fort Lauderdale, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000129558629) |
-| **Xsolla** | Internship Opportunity | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
+| **Bosch Group** | MFG Test Technician Intern | Fort Lauderdale, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000082485386) |
+| **Zipline** | Community Engagement Intern (Spring 2... | Austin, Texas, USA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7867044003) |
+| **Bosch Group** | Chassis Control Intern - Kettering Un... | Plymouth, MI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000127510818) |
+| **Bosch Group** | Purchasing Intern | Fort Lauderdale, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000129558629) |
+| **Xsolla** | Internship Opportunity | Los Angeles, United St... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
 | **Voltus** | Energy Markets Intern (MISO) | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4) |
 | **Toyota Research Institute** | Human Interactive Driving Intern – Wo... | Los Altos, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) |
 | **SoloPulse** | Radar Digital Signal Processing (DSP)... | Peachtree Corners, GA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
+| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
 | **Pivotal Software** | Internship, GNC Engineering (Fall) | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) |
 | **Palantir** | Deployment Strategist, Internship - U... | Honolulu, HI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
-| **AbbVie** | Veteran SkillBridge Program Intern | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012915326) |
-| **Life.Church (YouVersion)** | Life.Church Campus Internship | United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b) |
+| **Layup Parts** | Manufacturing Engineer Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) |
+| **Machina Labs** | Technical Project Manager, Intern | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415) |
 | **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
 | **Machina Labs** | Robotic Process Engineer, Intern | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
-| **Machina Labs** | Technical Project Manager, Intern | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415) |
-| **Layup Parts** | Manufacturing Engineer Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) |
+| **Life.Church (YouVersion)** | Life.Church Campus Internship | United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b) |
 | **Institute for Foundation Models** | Inference Optimization Intern – Perfo... | Sunnyvale, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d) |
 | **Hermeus** | Propulsion Engineer Intern - Fall 2026 | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
-| **Field AI** | Internship - Robot Control Systems (F... | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704) |
 | **AbbVie** | 2027 Packaging Co-Op (July - Dec) | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014191506) |
 | **AbbVie** | 2027 Packaging Co-Op (Jan - June) | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014191096) |
+| **Field AI** | Internship - Robot Control Systems (F... | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704) |
 | **Crest Industries** | CIS/CS Internship | Pineville, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488) |
 | **Crest Industries** | Internships - All Disciplines | Pineville, Louisiana | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad) |
 | **CertiK** | Blockchain Security Expert Intern - A... | New York, New York / R... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754) |
 | **CertiK** | Business Development Intern / CertiK ... | New York, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1) |
 | **CertiK** | Business Development Intern / CertiK ... | San Francisco Bay Area... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61) |
-| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
-| **ByteDance** | Developer Advocacy Project Intern (PI... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665037087551129909) |
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
+| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
+| **ByteDance** | Developer Advocacy Project Intern (PI... | San Jose, California | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665037087551129909) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
 | **Google** | Student Researcher, PhD, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
 | **Veolia Environnement SA** | Wastewater Operator Intern | Discovery Bay, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143361009) |
@@ -502,7 +503,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | 2027 Quantitative Research – Markets ... | New York, NY, United S... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774061) |
 | **Figure AI** | Power Systems Integration Intern [Fal... | San Jose, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
 | **QuEra Computing** | Internship – Data Management | Boston, MA, USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) |
-| **Zipline** | Talent and Recruiting Intern (Fall 2026) | South San Francisco, C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7824387003) |
 | **Etched** | Performance Tools Intern | San Jose | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) |
 | **TransMarket Group** | Algorithmic Trader Intern | Chicago, Illinois, Uni... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) |
 | **Stantec** | Transportation Engineering Co-op/Inte... | New York, NY, United S... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071) |
@@ -569,7 +569,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 724 current opportunities from 167 companies**
+**🎯 725 current opportunities from 167 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
