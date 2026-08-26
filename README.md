@@ -218,7 +218,7 @@ Check out our other repos for jobs and free resources:
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027"><img src="images/repo-dsj.png" alt="Data Science Jobs 2027" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs 2027" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2027"><img src="images/repo-hcj.png" alt="Healthcare Jobs 2027" height="40"></a>
   &nbsp;&nbsp;
