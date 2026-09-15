@@ -110,7 +110,6 @@ The following are some worldwide research internship positions:
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 
 #### <img src="images/flags/tr.png" alt="Turkish flag" width="15"> Turkey
-  * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
   * [Sabancı Üniversitesi PURE Summer Research Program](https://pure.sabanciuniv.edu/)
   * [Özyeğin Üniversitesi Undergraduate Research Summer Internship Program](https://www.ozyegin.edu.tr/en/research/summer-research-program/undergraduate-research-summer-internship-program/undergraduate)
 
@@ -186,22 +185,18 @@ The following are some worldwide research internship positions:
 
 #### 🗺️ Global Programs for Indian Students
 * [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
-* [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 * [Viterbi India Program](https://iusstf.org/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 * [Khorana Program for Scholars](https://iusstf.org/), sponsored by IUSSTF
 * [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 * [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
-* [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
 * [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
 * [Summer Research Fellowship Programme 2021](https://webjapps.ias.ac.in/fellowship2022/index.html), IISc, IAS, INS
 * [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 * [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
-* [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
 * [Cisco Summer internship](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)
 * [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/), IISER Kolkata
 * [Bhaba Atomic Research Centre](http://www.barc.gov.in/student/)
 * [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
-* [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
 
 ## More Resources
 
@@ -238,7 +233,7 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Canada-Internships-2027"><img src="images/repo-int-can.png" alt="Canada Internships 2027" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/awesome-ML-internships"><img src="images/repo-ml.png" alt="AI & ML Internships 2027" height="40"></a>
+  <a href="https://github.com/zapplyjobs/awesome-ml-internships-2027"><img src="images/repo-ml.png" alt="AI & ML Internships 2027" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships for Undergraduates" height="40"></a>
