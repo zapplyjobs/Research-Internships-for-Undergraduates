@@ -260,3 +260,19 @@ Thanks to all our contributors! **The real MVPs. 🏆**
 <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=zapplyjobs/Research-Internships-for-Undergraduates"/>
 </a>
+
+
+## Data & Reuse
+
+Job listings are public information provided by employers, who remain responsible for their accuracy. The compilation and the added data fields (skills, degree and visa estimates, tags) are by Zapply.
+
+You may use, share, and build on this data, including for commercial purposes, as long as you:
+
+- Link back to this repository as the source (followed link, no nofollow).
+- Credit Zapply as the data source.
+- Do not resubmit the listings to third-party job aggregators or feeds.
+- Do not present Zapply enrichment fields as official employer statements; they are automated estimates provided as-is, without warranty.
+
+You may use the name Zapply to attribute the data. Please do not use the Zapply logo or imply endorsement without written permission.
+
+Questions or a different use? Open an issue - we say yes more often than not.
