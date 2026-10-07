@@ -275,4 +275,4 @@ You may use, share, and build on this data, including for commercial purposes, a
 
 You may use the name Zapply to attribute the data. Please do not use the Zapply logo or imply endorsement without written permission.
 
-Questions or a different use? Open an issue - we say yes more often than not.
+Questions or a different use? Open an issue. We say yes more often than not.
