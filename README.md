@@ -223,6 +223,11 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-IT-Jobs-2027"><img src="images/new-grad-it-jobs-button.png" alt="New Grad IT Jobs 2027" height="40"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/Spain-Jobs-2027"><img src="images/repo-esp.png" alt="Spain Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Retail-Jobs-2027"><img src="images/repo-ret.png" alt="Retail Jobs" height="40"></a>
+</p>
 
 <hr>
 
@@ -239,6 +244,9 @@ Check out our other repos for jobs and free resources:
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships for Undergraduates" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/Spain-Internships-2027"><img src="images/repo-int-esp.png" alt="Spain Internships" height="40"></a>
 </p>
 
 <hr>
