@@ -207,6 +207,8 @@ Check out our other repos for jobs and free resources:
 ### Live Job Boards
 
 <p align="center">
+  <a href="https://github.com/zapplyjobs/Visa-Sponsored-Jobs-2027"><img src="images/visa-jobs-button.png" alt="Visa Sponsored Jobs" height="40"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2027"><img src="images/repo-ngj.png" alt="New Grad Jobs 2027" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
