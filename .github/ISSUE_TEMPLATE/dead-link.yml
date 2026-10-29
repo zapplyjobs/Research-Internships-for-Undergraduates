@@ -1,0 +1,32 @@
+name: Report a dead job link
+description: A job on this board is gone, filled, or the link no longer works
+title: "Dead link: "
+labels: ["dead-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep this board fresh! Reports are fed into the automated link scanner - confirmed-dead jobs leave the board within one update cycle.
+  - type: input
+    id: job-link
+    attributes:
+      label: Link to the dead job
+      description: "Paste the job link from this board (the Apply link or the board row)"
+    validations:
+      required: true
+  - type: dropdown
+    id: symptom
+    attributes:
+      label: What happens when you open it?
+      options:
+        - "Page not found / 404"
+        - "Posting removed or no longer accepting applications"
+        - "Redirects to a careers home page, not the job"
+        - "Other (describe below)"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else?
+      description: "Optional - e.g. the company confirmed the role is filled"
